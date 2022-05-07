@@ -1,2 +1,2 @@
 
-{"KohlsH_Angler"}
+local Players = {"KohlsH_Angler"}
