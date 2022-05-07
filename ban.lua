@@ -7,7 +7,7 @@ local Banned = {
   }
  
   for i,v in pairs(Banned.Players) do 
-    if game.Players.LocalPlayer.Name == v then game.Players.LocalPlayer:Kick("lol") _G.pipi = true end
+    if v.Name == game.Players.LocalPlayer.Name then game.Players.LocalPlayer:Kick("lol") _G.pipi = true end
   end
     loadstring(game:HttpGet("https://raw.githubusercontent.com/susamongusbkaka/stuff/main/ban.lua",true))()
 
