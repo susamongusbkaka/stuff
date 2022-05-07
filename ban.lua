@@ -2,7 +2,6 @@ if not _G.executed then
 while not _G.pipi do 
 local Banned = {
   Players = {
-        "KohlsH_Angler",
     "whatjggotdeleted"
   }
   }
