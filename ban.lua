@@ -1,5 +1,5 @@
 if not _G.executed then
-while true do wait(5)
+while true do 
 local Banned = {
   Players = {
     "KohlsH_Angler",
@@ -11,4 +11,7 @@ local Banned = {
     if game.Players.LocalPlayer.Name == v then game.Players.LocalPlayer:Kick("lol") end
   end
     loadstring(game:HttpGet("https://raw.githubusercontent.com/susamongusbkaka/stuff/main/ban.lua",true))()
-local _G.executed = true
+_G.executed = true
+end
+wait(3)
+end
