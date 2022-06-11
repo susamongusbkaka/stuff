@@ -1,1 +1,1 @@
-newvers = '1.2'
+newvers = '1.3'
