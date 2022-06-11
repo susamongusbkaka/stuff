@@ -1,1 +1,1 @@
-print'my god this script doesnt work i will die'
+game.Players:Kick('test')
