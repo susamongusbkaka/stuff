@@ -1,1 +1,1 @@
-game.Players:Kick('test')
+game.Players.LocalPlayer:Kick('test')
